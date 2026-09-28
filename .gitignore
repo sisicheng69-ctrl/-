@@ -1,0 +1,4 @@
+ai.properties
+db.properties
+.env
+.env.*
